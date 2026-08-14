@@ -36,4 +36,4 @@ Professional **Corona Renderer Edge** toolkit for advanced 3D modeling, renderin
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.     
+> This repository is provided for educational and utility purposes only. Use at your own discretion.      
